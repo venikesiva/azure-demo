@@ -12,7 +12,7 @@ public class AzureDemoApplication {
 	@GetMapping("/hello")
 	public String hello() {
 		
-		return "Congratulations! Your first app on azure is successful!";
+		return "Congratulations! Your first app is updated and pushed to azure without much complex!! and this is real Cool!";
 	}
 	
 	public static void main(String[] args) {
